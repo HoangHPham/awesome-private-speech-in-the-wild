@@ -29,7 +29,7 @@ This repository aims to support research in robust and trustworthy speech system
 
 A collection of survey papers covering speech privacy, robustness, and speaker modeling.
 
-- [Paper Title](link) — brief description  
+- [Privacy in Speech Technology](https://arxiv.org/abs/2305.05227)  
 - [Paper Title](link) — brief description  
 - [Paper Title](link) — brief description  
 
