@@ -29,9 +29,7 @@ This repository aims to support research in robust and trustworthy speech system
 
 A collection of survey papers covering speech privacy, robustness, and speaker modeling.
 
-- [Privacy in Speech Technology](https://arxiv.org/abs/2305.05227)  
-- [Paper Title](link) — brief description  
-- [Paper Title](link) — brief description  
+- [Privacy in Speech Technology](https://arxiv.org/abs/2305.05227) - 2025  
 
 ---
 
@@ -61,8 +59,7 @@ Datasets used for speech privacy, speaker modeling, and robustness evaluation.
 
 Techniques for encoding speaker identity (e.g., x-vectors, ECAPA-TDNN).
 
-- [Paper / Method](link) — description  
-- [Paper / Method](link) — description  
+- [Overview of Speaker Modeling and Its Applications: From the Lens of Deep Speaker Representation Learning](https://arxiv.org/abs/2407.15188) - 2024  
 
 ---
 
