@@ -60,15 +60,18 @@ Datasets used for speech privacy, speaker modeling, and robustness evaluation.
 Techniques for encoding speaker identity (e.g., x-vectors, ECAPA-TDNN).
 
 - [Overview of Speaker Modeling and Its Applications: From the Lens of Deep Speaker Representation Learning](https://arxiv.org/abs/2407.15188) - 2024  
+- [Speaker Representation Learning: Theories, Applications and Practice](https://wsstriving.github.io/talk/2023-icassp-wespeaker/) - 2023  
 
 ---
 
-### 🔀 Speaker Disentanglement
+### 🔀 Speech Representation Disentanglement
 
 Methods for separating speaker identity from linguistic and acoustic factors.
 
-- [Paper / Method](link) — description  
-- [Paper / Method](link) — description  
+- [Disentangling Voice and Content with Self-Supervision for Speaker Recognition](https://proceedings.neurips.cc/paper_files/paper/2023/file/9d276b0a087efdd2404f3295b26c24c1-Paper-Conference.pdf) - NeurIPS 2023 
+- [Disentangling Speaker and Content in Pre-trained Speech Models with Latent Diffusion for Robust Speaker Verification](https://www.isca-archive.org/interspeech_2025/li25z_interspeech.pdf) — Interspeech 2025  
+- [Disentangling Speech Representations Learning With Latent Diffusion for Speaker Verification](https://ieeexplore.ieee.org/document/11164168) - TASLP 2025
+- [Can Diffusion Models Disentangle? A Theoretical Perspective](https://proceedings.neurips.cc/paper_files/paper/2025/file/00bd71667563acfea40499ad76229894-Paper-Conference.pdf) - NeurIPS 2025
 
 ---
 
