@@ -29,8 +29,9 @@ This repository aims to support research in robust and trustworthy speech system
 
 A collection of survey papers covering speech privacy, robustness, and speaker modeling.
 
-- [Privacy in Speech Technology](https://arxiv.org/abs/2305.05227) - 2025  
-
+- [Privacy in Speech Technology](https://arxiv.org/abs/2305.05227) - 2025
+- [Towards privacy-preserving conversation analysis in everyday life: Exploring the privacy-utility trade-off](https://www.sciencedirect.com/science/article/pii/S0885230825000488)  - CSL 2026
+- [Noise robust automatic speech recognition: review and analysis](https://link.springer.com/content/pdf/10.1007/s10772-023-10033-0.pdf) - International Journal of Speech Technology 2023
 ---
 
 ## 🧠 Key Papers
@@ -72,7 +73,7 @@ Methods for separating speaker identity from linguistic and acoustic factors.
 - [Disentangling Speaker and Content in Pre-trained Speech Models with Latent Diffusion for Robust Speaker Verification](https://www.isca-archive.org/interspeech_2025/li25z_interspeech.pdf) — Interspeech 2025  
 - [Disentangling Speech Representations Learning With Latent Diffusion for Speaker Verification](https://ieeexplore.ieee.org/document/11164168) - TASLP 2025
 - [Can Diffusion Models Disentangle? A Theoretical Perspective](https://proceedings.neurips.cc/paper_files/paper/2025/file/00bd71667563acfea40499ad76229894-Paper-Conference.pdf) - NeurIPS 2025
-
+- [Explainable Disentanglement on Discrete Speech Representations for Noise-Robust ASR](https://ieeexplore.ieee.org/abstract/document/11249036) - APSIPA 2025
 ---
 
 ### 🙈 Speaker Anonymization
@@ -81,6 +82,33 @@ Approaches to remove or obfuscate speaker identity while preserving speech utili
 
 - [Paper / Method](link) — description  
 - [Paper / Method](link) — description  
+
+---
+
+### 🌍 Physical Environmental Factors
+
+Research on privacy-preserving speech systems under realistic environmental conditions.
+
+#### 🔊 Noise
+
+- [Long-term conversation analysis: privacy-utility trade-off under noise and reverberation](https://ieeexplore.ieee.org/document/10694640) - IWAENC 2024
+- [Disentangling speech from surroundings with neural embeddings](https://ieeexplore.ieee.org/abstract/document/10096435) - ICASSP 2023
+- [De'hubert: disentangling noise in a self-supervised model for robust speech recognition](https://ieeexplore.ieee.org/abstract/document/10096603) - ICASSP 2023
+- Additive noise
+- Non-stationary noise
+- Real-world acoustic noise
+
+#### 🗣️ Multiple Speakers
+
+- Overlapping speech
+- Speaker mixtures
+- Cocktail party scenarios
+
+#### 🎙️ Multiple Devices
+
+- Device mismatch
+- Microphone heterogeneity
+- Cross-device generalization
 
 ---
 
