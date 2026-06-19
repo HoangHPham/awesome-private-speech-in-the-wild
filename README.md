@@ -48,7 +48,7 @@ Foundational and recent works in privacy-preserving speech technology.
 
 Datasets used for speech privacy, speaker modeling, and robustness evaluation.
 
-- [Dataset Name](link) — brief description  
+- [Treble10: A high-quality dataset for far-field speech recognition, dereverberation, and enhancement](https://arxiv.org/html/2510.23141v1) — Reverberation  
 - [Dataset Name](link) — brief description  
 - [Dataset Name](link) — brief description  
 
