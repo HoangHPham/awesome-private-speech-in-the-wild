@@ -62,6 +62,7 @@ Techniques for encoding speaker identity (e.g., x-vectors, ECAPA-TDNN).
 
 - [Overview of Speaker Modeling and Its Applications: From the Lens of Deep Speaker Representation Learning](https://arxiv.org/abs/2407.15188) - 2024  
 - [Speaker Representation Learning: Theories, Applications and Practice](https://wsstriving.github.io/talk/2023-icassp-wespeaker/) - 2023  
+- [Diffusion Models for Audio Restoration](https://arxiv.org/pdf/2402.09821)  
 
 ---
 
@@ -74,6 +75,13 @@ Methods for separating speaker identity from linguistic and acoustic factors.
 - [Disentangling Speech Representations Learning With Latent Diffusion for Speaker Verification](https://ieeexplore.ieee.org/document/11164168) - TASLP 2025
 - [Can Diffusion Models Disentangle? A Theoretical Perspective](https://proceedings.neurips.cc/paper_files/paper/2025/file/00bd71667563acfea40499ad76229894-Paper-Conference.pdf) - NeurIPS 2025
 - [Explainable Disentanglement on Discrete Speech Representations for Noise-Robust ASR](https://ieeexplore.ieee.org/abstract/document/11249036) - APSIPA 2025
+- [CONTENTVEC: An Improved Self-Supervised Speech Representation by Disentangling Speakers](https://proceedings.mlr.press/v162/qian22b/qian22b.pdf) - PMLR 2022
+- [Towards Disentangled Speech Representations](https://arxiv.org/abs/2208.13191)
+- [Adversarial Feature Disentanglement Framework for Voice Pathology Detection](https://ieeexplore.ieee.org/document/10888569) - ICASSP 2025
+- [Intra-Class Variation Reduction of Speaker Representation in Disentanglement Framework](https://www.isca-archive.org/interspeech_2020/kwon20_interspeech.html) - Interspeech 2020
+- [Disentangled-Transformer: An Explainable End-to-End Automatic Speech Recognition Model with Speech Content-Context Separation](https://ieeexplore.ieee.org/document/10924511) - IPAS 2025
+- [Disentangled Sequential Autoencoder](https://proceedings.mlr.press/v80/yingzhen18a/yingzhen18a.pdf) - MPLR 2018
+- [Contrastively Disentangled Sequential Variational Autoencoder](https://arxiv.org/pdf/2110.12091) - NeurIPS 2021
 ---
 
 ### 🙈 Speaker Anonymization
@@ -94,12 +102,15 @@ Research on privacy-preserving speech systems under realistic environmental cond
 - [Long-term conversation analysis: privacy-utility trade-off under noise and reverberation](https://ieeexplore.ieee.org/document/10694640) - IWAENC 2024
 - [Disentangling speech from surroundings with neural embeddings](https://ieeexplore.ieee.org/abstract/document/10096435) - ICASSP 2023
 - [De'hubert: disentangling noise in a self-supervised model for robust speech recognition](https://ieeexplore.ieee.org/abstract/document/10096603) - ICASSP 2023
+- [Simultaneous speech and background sound recognition in diverse acoustic environments with branched neural networks](https://www.sciencedirect.com/science/article/pii/S0885230825000932) - CSL 2025
+- [Detection of Acoustic Scenes and Events using Audio Analysis – A Survey](https://ieeexplore.ieee.org/abstract/document/10183195) - ICACITE 2023
 - Additive noise
 - Non-stationary noise
 - Real-world acoustic noise
 
 #### 🗣️ Multiple Speakers
 
+- [Disentangling Speakers in Multi-Talker Speech Recognition with Speaker-Aware CTC](https://ieeexplore.ieee.org/document/10888841) - ICASSP 2025
 - Overlapping speech
 - Speaker mixtures
 - Cocktail party scenarios
@@ -116,7 +127,7 @@ Research on privacy-preserving speech systems under realistic environmental cond
 
 Generative models for speech synthesis, transformation, and anonymization.
 
-- [Paper / Method](link) — description  
+- [Diffusion Models and Representation Learning: A Survey](https://arxiv.org/pdf/2407.00783)  
 - [Paper / Method](link) — description  
 
 ---
